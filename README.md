@@ -13,5 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasguliyev&layout=compact&theme=radical)](https://github.com/abbasguliyev/github-readme-stats)
 
-(https://github.com/abbasguliyev/abbasguliyev/blob/output/github-contribution-grid-snake.svg)
-
